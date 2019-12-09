@@ -11,7 +11,8 @@ def speak_to_grandma(phrase)
     puts respond = 'HUH?! SPEAK UP, SONNY!'
     
   elsif
-    phrase ==
+    phrase == 'Hi!'
+    puts respond = 
     
   else puts 'I didnot say anything '
   
