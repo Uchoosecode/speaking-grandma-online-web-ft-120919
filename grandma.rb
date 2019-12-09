@@ -1,11 +1,11 @@
 
 def speak_to_grandma(phrase)
   if 
-    phrase = 'I LOVE YOU GRANDMA!'
+    phrase == 'I LOVE YOU GRANDMA!'
     puts 'I LOVE YOU TOO PUMPKIN!'
     
   elsif 
-    phrase = 'Hi, Nana.'
+    phrase == 'Hi, Nana.'
     puts 'HUH'
     
   else puts 'I didnot say anything '
