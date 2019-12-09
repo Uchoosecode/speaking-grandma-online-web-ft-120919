@@ -13,7 +13,7 @@ def speak_to_grandma(phrase)
   
   
   end
-  return phrase = 'I LOVE YOU GRANDMA!'
+   phrase = 'I LOVE YOU GRANDMA!'
 end
 
 
