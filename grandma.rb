@@ -16,7 +16,7 @@ def speak_to_grandma(phrase)
     
   else 
     phrase ='WHAT DID YOU EAT TODAY?'
-    puts respond = 'I didnot say anything '
+    puts respond = "NO, NOT SINCE 1938!"
   
   
   end
