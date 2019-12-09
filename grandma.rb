@@ -7,7 +7,7 @@ def speak_to_grandma(phrase)
     puts respond
     
   elsif 
-    phrase == 'Hi, Nana.'
+    phrase == 'Hi Nana, how are you?'
     puts 'HUH'
     
   else puts 'I didnot say anything '
