@@ -10,6 +10,9 @@ def speak_to_grandma(phrase)
     phrase == 'Hi Nana, how are you?'
     puts respond = 'HUH?! SPEAK UP, SONNY!'
     
+  elsif
+    phrase ==
+    
   else puts 'I didnot say anything '
   
   
