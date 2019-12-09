@@ -1,10 +1,10 @@
 
 def speak_to_grandma(phrase)
   
-  respond = 'I LOVE YOU TOO PUMPKIN!'
+  
   if 
     phrase == 'I LOVE YOU GRANDMA!'
-    puts respond
+    puts respond = 'I LOVE YOU TOO PUMPKIN!'
     
   elsif 
     phrase == 'Hi Nana, how are you?'
