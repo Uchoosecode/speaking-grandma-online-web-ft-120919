@@ -1,6 +1,6 @@
 
 def speak_to_grandma(phrase)
-   phrase = 'I LOVE YOU GRANDMA!'
+  
   respond = 'I LOVE YOU TOO PUMPKIN!'
   if 
     phrase == 'I LOVE YOU GRANDMA!'
